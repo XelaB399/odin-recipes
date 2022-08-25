@@ -24,34 +24,47 @@ h1.home{
 }
 
 .body{
-
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    background-color: lightskyblue;
+    text-align: center;
+    border: 15px;
+    padding: 15px;
+    color: black;
 }
 
 .title{
-
+    font-size: 36px;
+    font-weight: bold;
+    background-color: blanchedalmond;
 }
 
 .mini.title{
+    font-size: 25px;
 
 }
 
 .subtitle{
-
+    font-size: 20px;
 }
 
 .ingredients.list{
-
+    background-color: burlywood;
 
 }
 
 .method.list{
+    background-color: lightgrey;
 
 }
 
 .storage{
+    background-color: lightpink;
 
 }
 
 .links{
+    background-color: black;
+    color: white;
+    text-align: left;
 
 }
