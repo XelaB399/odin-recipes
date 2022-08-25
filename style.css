@@ -8,6 +8,7 @@
     padding: 120px;
 }
 
+
 div.home {
     background-color:grey;
     color: white;
@@ -66,5 +67,4 @@ h1.home{
     background-color: black;
     color: white;
     text-align: left;
-
 }
