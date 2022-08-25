@@ -28,7 +28,7 @@ h1.home{
     font-family: Verdana, Geneva, Tahoma, sans-serif;
     background-color: lightskyblue;
     text-align: center;
-    border: 15px;
+    margin: 15px solid black;
     padding: 15px;
     color: black;
 }
@@ -49,22 +49,29 @@ h1.home{
 }
 
 .ingredients.list{
-    background-color: burlywood;
+    text-align: left;
 
 }
 
 .method.list{
-    background-color: lightgrey;
+    text-align: left;
 
 }
 
 .storage{
-    background-color: lightpink;
+    padding: 20px;
+    text-align: center;
 
 }
 
 .links{
-    background-color: black;
-    color: white;
+    background-color: white;
     text-align: left;
+    padding: 20px;
+    border: 10px solid black;
+    width: 200px;
+}
+
+div.block{
+    border: 10px solid white;
 }
